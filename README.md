@@ -2,7 +2,7 @@
 
 ### Projeto desenvolvido com intuido de revisar conceitos aprendidos sobre HTML, CSS e JavaScript.
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-f659e9569f.gif" />
+<img src="https://i.imgur.com/SZ8TIBy.gif" />
 
 ### Conceitos utilizados:
 - HTML Semantico
